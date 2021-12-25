@@ -1,0 +1,523 @@
+*{
+    margin: 0 auto;
+}
+.beginning{
+    width: 80%;
+    height: 700px;
+    background-color: rgb(180, 180, 180);
+    display: flex;
+    flex-direction: column;
+ }
+ h1{
+     font-size: 40px;
+     text-align: center;
+    padding: 20px;
+ }
+
+ .boks{
+     width: 100%;
+     height: 600px;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+
+}
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+}
+.for{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(191, 190, 196);
+}
+.for p{
+    font-size: 40px;
+   
+}
+.for i{
+    font-size: 40px;
+}
+.bot a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(204, 111, 94);
+}
+.bot {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bot p{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(41, 3, 3);
+}
+.far{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(69, 68, 77);
+}
+.far p{
+    font-size: 40px;
+
+   
+}
+.far i{
+    font-size: 40px;
+}
+.bat a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(104, 16, 0);
+}
+.bat {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bat p{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(41, 3, 3);
+}
+.fir{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(69, 68, 77);
+}
+.fir p{
+    font-size: 40px;
+
+   
+}
+.fir i{
+    font-size: 40px;
+}
+.bit a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(104, 16, 0);
+}
+.bit {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bit p{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(41, 3, 3);
+}
+.fer{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(69, 68, 77);
+}
+.fer p{
+    font-size: 40px;
+
+   
+}
+.fer i{
+    font-size: 40px;
+}
+.bet a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(104, 16, 0);
+}
+.bet {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bet p{
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(41, 3, 3);
+}
+.fyr{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(69, 68, 77);
+}
+.fyr p{
+    font-size: 40px;
+
+   
+}
+.fyr i{
+    font-size: 40px;
+}
+.byt a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(104, 16, 0);
+}
+.byt {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.byt p{
+    font-size: 20px;
+    font-weight:bold;
+}
+.beginning_2{
+    width: 80%;
+    height: 700px;
+    background-color: rgb(173, 168, 168);
+    display: flex;
+    flex-direction: column;
+    
+ }
+h1{
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.boks{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.lesson{
+   width: 30%;
+   height: 200px;
+   display: flex;
+   flex-direction:column ;
+   border: 1px solid rgb(226, 97, 97);
+}
+.par{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(69, 68, 77);
+}
+.par p{
+    font-size: 40px;
+
+   
+}
+.par i{
+    font-size: 40px;
+}
+.can a{
+    color: rgb(82, 41, 34);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 20px ;
+    border:1px solid  rgb(104, 16, 0);
+}
+.can {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.can p{
+    font-size: 20px;
+    font-weight:bold;
+}
+.lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+ }
+ .pyr{
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     border-bottom: 1px solid rgb(69, 68, 77);
+ }
+ .pyr p{
+     font-size: 40px;
+ 
+    
+ }
+ .pyr i{
+     font-size: 40px;
+ }
+ .cyn a{
+     color: rgb(83, 73, 71);
+     font-size: 20px;
+     text-decoration: none;
+     padding: 15px 20px ;
+     border:1px solid  rgb(211, 98, 78);
+ }
+ .cyn {
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+ }
+ .cyn p{
+     font-size: 20px;
+     font-weight:bold;
+ }
+
+
+
+ 
+ .lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+ }
+ .por{
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     border-bottom: 1px solid rgb(69, 68, 77);
+ }
+ .por p{
+     font-size: 40px;
+ 
+    
+ }
+ .por i{
+     font-size: 40px;
+ }
+ 
+ .con {
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+ }
+ .con a{
+     color: rgb(83, 73, 71);
+     font-size: 20px;
+     text-decoration: none;
+     padding: 15px 20px ;
+     border:1px solid  rgb(211, 98, 78);
+ }
+ .con p{
+     font-size: 20px;
+     font-weight:bold;
+ } 
+ 
+ 
+
+
+ .lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+ }
+ .pir{
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     border-bottom: 1px solid rgb(69, 68, 77);
+ }
+ .pir p{
+     font-size: 40px;
+ 
+    
+ }
+ .pir i{
+     font-size: 40px;
+ }
+ 
+ .cin {
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+ }
+ .cin a{
+     color: rgb(83, 73, 71);
+     font-size: 20px;
+     text-decoration: none;
+     padding: 15px 20px ;
+     border:1px solid  rgb(211, 98, 78);
+ }
+ .cin p{
+     font-size: 20px;
+     font-weight:bold;
+ } 
+
+
+
+
+
+ .lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+ }
+ .per{
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     border-bottom: 1px solid rgb(69, 68, 77);
+ }
+ .per p{
+     font-size: 40px;
+ 
+    
+ }
+ .per i{
+     font-size: 40px;
+ }
+ 
+ .cen {
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+ }
+ .cen a{
+     color: rgb(83, 73, 71);
+     font-size: 20px;
+     text-decoration: none;
+     padding: 15px 20px ;
+     border:1px solid  rgb(211, 98, 78);
+ }
+ .cen p{
+     font-size: 20px;
+     font-weight:bold;
+ } 
+
+
+
+
+ .lesson{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction:column ;
+    border: 1px solid rgb(226, 97, 97);
+ }
+ .pur{
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     border-bottom: 1px solid rgb(69, 68, 77);
+ }
+ .pur p{
+     font-size: 40px;
+ 
+    
+ }
+ .pur i{
+     font-size: 40px;
+ }
+ 
+ .cun {
+     width: 100%;
+     height: 50%;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+ }
+ .cun a{
+     color: rgb(83, 73, 71);
+     font-size: 20px;
+     text-decoration: none;
+     padding: 15px 20px ;
+     border:1px solid  rgb(211, 98, 78);
+ }
+ .cun p{
+     font-size: 20px;
+     font-weight:bold;
+ } 
